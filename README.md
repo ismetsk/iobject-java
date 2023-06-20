@@ -1,6 +1,6 @@
 # SuperMap iobject-11 Java
 
-## Available classes , will add more in the future
+## Available classes
 1. com.supermap.analyst.networkanalyst
 2. com.supermap.analyst.spatialanalyst
 3. com.supermap.data.cloudlicense
